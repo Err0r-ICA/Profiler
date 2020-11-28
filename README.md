@@ -1,4 +1,4 @@
-# Faker (fake user)
+# Profiker ##(fake script) 
 
 Faker is tools for get fake user information<br>
 ![alt text](https://img.shields.io/badge/Coded-Desta-blue.svg)
@@ -14,5 +14,4 @@ $ cd faker
 $ python2 faker.py
 ```
 
-# Screenshot
-<img src="faker.jpg" />
+## Screenshot 

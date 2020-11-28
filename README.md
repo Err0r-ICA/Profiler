@@ -1,7 +1,5 @@
 # Profiker (fake script) 
-
-Faker is tools for get fake user information<br>
-![alt text](https://img.shields.io/badge/Coded-Desta-blue.svg)
+**<i>Faker is tools for get fake user information<br></i>**
 ![alt text](https://img.shields.io/badge/Size-3.12KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2-green.svg)
 
@@ -9,9 +7,9 @@ Faker is tools for get fake user information<br>
 ```
 $ apt install python2
 $ pip2 install requests
-$ git clone https://github.com/blackcodercrush/faker
-$ cd faker
-$ python2 faker.py
+$ git clone https://github.com/Err0r-ICA/Profiler
+$ cd Profiler
+$ python2 Profiler
 ```
 
 ## Screenshot 

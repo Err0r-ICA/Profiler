@@ -1,5 +1,5 @@
 # Profiler (fake script) 
-**<i>Profiler is tools for get fake user information<br></i>**
+**<i>Profiler is a script for get fake user information<br></i>**
 ![alt text](https://img.shields.io/badge/Size-2.85KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2-green.svg)
 

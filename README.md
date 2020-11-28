@@ -1,4 +1,4 @@
-# Profiker ##(fake script) 
+# Profiker (fake script) 
 
 Faker is tools for get fake user information<br>
 ![alt text](https://img.shields.io/badge/Coded-Desta-blue.svg)

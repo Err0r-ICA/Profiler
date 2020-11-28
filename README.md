@@ -13,7 +13,7 @@ $ python2 Profiler
 ```
 
 ## Screenshot 
-![Screenshot](https://postimg.cc/PpP0qZHL)
+![Screenshot](https://i.postimg.cc/L9ds4xtG/Screenshot-20201114-184327-Termux.jpg)
 
 ### Connect with me:
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>

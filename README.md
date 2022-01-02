@@ -1,9 +1,9 @@
-# Profiler (fake script) 
+# Profiler 🔎 (fake script) 
 **<i>Profiler is a script for getting fake user information<br></i>**
 ![alt text](https://img.shields.io/badge/Size-2.85KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2-green.svg)
 
-# Install
+# 💿 Installation 💿
 ```
 $ apt install python2
 $ pip2 install requests
@@ -12,10 +12,10 @@ $ cd Profiler
 $ python2 Profiler
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/L9ds4xtG/Screenshot-20201114-184327-Termux.jpg)
 
-### Connect with me:
+### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/kalit3rmux"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/termuxxhacking"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
